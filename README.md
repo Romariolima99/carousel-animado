@@ -6,7 +6,7 @@ Este é um simples Carousel animado criado com HTML, CSS e JavaScript. Ele exibe
 
 - *HTML*: O arquivo HTML (`index.html`) contém a estrutura básica do Carousel, incluindo a marcação das imagens e os controles de navegação.
 
-- *CSS*: O arquivo CSS (`style.css`) define a aparência do Carousel, incluindo o posicionamento das imagens, a animação de transição e o fundo degradê.
+- *CSS*: O arquivo CSS (`styles.css`) define a aparência do Carousel, incluindo o posicionamento das imagens, a animação de transição e o fundo degradê.
 
 - *JavaScript*: O arquivo JavaScript (`main.js`) controla o funcionamento do Carousel, como a lógica de transição das imagens e a manipulação dos controles de navegação.
 
@@ -15,7 +15,7 @@ Este é um simples Carousel animado criado com HTML, CSS e JavaScript. Ele exibe
 Certifique-se de ter os seguintes arquivos em seu projeto:
 
 - `index.html`: A marcação HTML para o Carousel.
-- `style.css`: Estilos CSS para personalizar a aparência.
+- `styles.css`: Estilos CSS para personalizar a aparência.
 - `main.js`: JavaScript para adicionar interatividade.
 - `assets`: pasta com as imagens utilizadas no projeto.
 
