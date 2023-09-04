@@ -17,7 +17,7 @@ Certifique-se de ter os seguintes arquivos em seu projeto:
 - `index.html`: A marcação HTML para o Carousel.
 - `style.css`: Estilos CSS para personalizar a aparência.
 - `main.js`: JavaScript para adicionar interatividade.
-- `assets`: pasta com as imagns utilizadas no projeto.
+- `assets`: pasta com as imagens utilizadas no projeto.
 
 ## Uso
 
