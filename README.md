@@ -1,0 +1,27 @@
+# Carousel Animado com Background Degradê
+
+Este é um simples Carousel animado criado com HTML, CSS e JavaScript. Ele exibe uma série de imagens em um efeito de slide contínuo.
+
+## Recursos
+
+- *HTML*: O arquivo HTML (`index.html`) contém a estrutura básica do Carousel, incluindo a marcação das imagens e os controles de navegação.
+
+- *CSS*: O arquivo CSS (`style.css`) define a aparência do Carousel, incluindo o posicionamento das imagens, a animação de transição e o fundo degradê.
+
+- *JavaScript*: O arquivo JavaScript (`script.js`) controla o funcionamento do Carousel, como a lógica de transição das imagens e a manipulação dos controles de navegação.
+
+## Pré-requisitos
+
+Certifique-se de ter os seguintes arquivos em seu projeto:
+
+- `index.html`: A marcação HTML para o Carousel.
+- `style.css`: Estilos CSS para personalizar a aparência.
+- `main.js`: JavaScript para adicionar interatividade.
+- `assets`: pasta com as imagns utilizadas no projeto.
+
+## Uso
+
+1. Clone o repositório:
+
+   ```shell
+   git clone https://github.com/seu-usuario/seu-repositorio.git
