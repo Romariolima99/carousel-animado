@@ -24,4 +24,6 @@ Certifique-se de ter os seguintes arquivos em seu projeto:
 1. Clone o repositório:
 
    ```shell
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Romariolima99/carousel-animado
+
+<img src="https://i.imgur.com/O87hCzo.jpg" alt="GIF" data-canonical-src="https://i.imgur.com/O87hCzo.jpg" style="max-width: 50%;">
