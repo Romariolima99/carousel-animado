@@ -26,4 +26,4 @@ Certifique-se de ter os seguintes arquivos em seu projeto:
    ```shell
    git clone https://github.com/Romariolima99/carousel-animado
 
-<img src="https://i.imgur.com/O87hCzo.jpg" alt="GIF" data-canonical-src="https://i.imgur.com/O87hCzo.jpg" style="max-width: 50%;">
+<img src="https://i.imgur.com/JTfT3Jf.png" alt="GIF" data-canonical-src="https://i.imgur.com/JTfT3Jf.png" style="max-width: 50%;">
