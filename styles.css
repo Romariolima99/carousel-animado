@@ -11,7 +11,6 @@ body {
   margin: 0;
   display: grid;
   place-items: center;
-  /*background: #3b395c;*/
   font-family: "Euclid Circular A";
   text-align: center;
   background-image: radial-gradient(circle at 100% 0%, #ff78b4 0, #f76fb9 10%, #eb67be 20%, #dc5ec3 30%, #ca57c8 40%, #b550cc 50%, #9c4bd1 60%, #7e49d5 70%, #564ada 80%, #004bde 90%, #004de1 100%);
@@ -98,8 +97,6 @@ button {
   margin-bottom: 10px;
 }
 
-
-
 .heartbeat {
   position: relative;
   color: #f9f9f9;
@@ -130,10 +127,37 @@ button {
 }
 
 
+/* inicio das Medias queries de responsividade */
+@media(min-width:320px) and (max-width:459px) {
+  .heartbeat{
+    display: none;
+    
+  }
+}
+
+@media(min-width:768px) and (max-width:1024px) {
+  .heartbeat{
+    display: none;
+    
+  }
+}
+
+@media(min-width:540px) and (max-width:720px) {
+  .heartbeat{
+    display: none;
+    
+  }
+}
+
+@media(min-width:820px) and (max-width:1180px) {
+  .heartbeat{
+    display: none;
+  }
+}
 
 
 
-
+/* Animação do texto */
 .heartbeat {
 	-webkit-animation: heartbeat 1.5s ease-in-out infinite both;
 	        animation: heartbeat 1.5s ease-in-out infinite both;
